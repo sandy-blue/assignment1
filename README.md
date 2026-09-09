@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Sandip
+- **Developer:** Sandip
 - **Hobby:** Sleeping
 - **Preferred Development Tool:** VS Code
