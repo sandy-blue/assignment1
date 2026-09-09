@@ -1,4 +1,5 @@
 # Developer Profile
-- **Developer:** Sandip
+
+- **Developer:** Sandip (@sandy-blue)
 - **Hobby:** Sleeping
 - **Preferred Development Tool:** VS Code
